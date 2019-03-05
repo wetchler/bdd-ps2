@@ -1,6 +1,6 @@
-## Big Data & Development, U.C. Berkeley, Spring 2019
+## PS2 - Big Data & Development, U.C. Berkeley, Spring 2019
 
-## This began from a fork of https://github.com/jblumenstock/bdd - reduced to PS2 related code only
+### This was initially forked from https://github.com/jblumenstock/bdd
 
 Team: Everett Wetchler, Lily Lin
 
