@@ -1,5 +1,11 @@
 ## Big Data & Development, U.C. Berkeley, Spring 2019
 
+## This began from a fork of https://github.com/jblumenstock/bdd - reduced to PS2 related code only
+
+Team: Everett Wetchler, Lily Lin
+
+## Original README from jblumenstock/bdd:
+
 Repository contains code for Joshua Blumenstock's course on Data-Intensive International Development
 
 - Course Website: http://sites.ischool.berkeley.edu/bdd/ 
