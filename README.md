@@ -2,8 +2,4 @@
 
 ### This was initially forked from https://github.com/jblumenstock/bdd
 
-### Team:
-* Lily Lin
-* Cara Nolan
-* Adam Sherman
-* Everett Wetchler
+### Team: Lily Lin, Everett Wetchler
